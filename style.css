@@ -1,0 +1,24 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.carousel-inner img{
+    width: 100%;
+    height: 93vh !important;
+}
+
+.changeIt{
+    color: black;
+    font-size: larger;
+}
+
+.editImg{
+    width: 100%;
+    height: 50vh !important;
+}
+
+.editCard{
+    height: 50% !important;
+}
